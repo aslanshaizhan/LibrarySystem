@@ -1,2 +1,2 @@
 # LibrarySystem
-Simple library system in angular
+Simple library system in Spring
